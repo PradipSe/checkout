@@ -1,7 +1,7 @@
 {
     "page_header": "Checkout",
     "invoice_no": "INV#12899a67",
-    "date_time": "6 Mar, 2021 • 10:39",
+    "date_time": "6 Mar, 2021 10:39",
     "gst_no": "22 AAAAA0000A 1 Z 5",
     "total": "10000",
     "product_details": {
@@ -10,35 +10,4 @@
         "travaler": "2",
         "visa_date": "11-16 May, 2020",
     },
-    "breakup": [
-        {
-            "name": "breakup1",
-            "type": "x1",
-            "price": "Rs xxx",
-        },
-        {
-            "name": "breakup2",
-            "type": "x2",
-            "price": "Rs xxx",
-        },
-        {
-            "name": "breakup3",
-            "type": "x3",
-            "price": "Rs xxx",
-        }
-    ],
-    "amount": [
-        {
-            "name": "Total visa fees Stam",
-            "price": "Rs xxx",
-        },
-        {
-            "name": "Total visa fees Stam",
-            "price": "Rs xxx",
-        },
-        {
-            "name": "Total visa fees Stam",
-            "price": "Rs xxx",
-        }
-    ],
 }
