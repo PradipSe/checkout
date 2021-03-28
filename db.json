@@ -17,13 +17,17 @@
     {
       "name": "breakup1",
       "type": "some comment",
-      "price": 1
+      "price": "Rs xxx"
     },
     {
       "name": "breakup2",
       "type": "some comment",
-      "price": 1
-    }
+      "price": "Rs xxx"
+    },
+    {
+      "name": "breakup3",
+      "type": "some comment",
+      "price": "Rs xxx"
   ],
   "profile": {
     "header": "checkout",
