@@ -36,5 +36,11 @@
     "invoice_no": "INV#12899a67",
     "date_time": "6 Mar, 2021 10:39",
     "gst_no": "22 AAAAA0000A 1 Z 5"
-  }
+  },
+  "product_details": {
+      "city": "Australia, Victoria",
+      "plan": "90 days tourist visa",
+      "travaler": "2",
+      "visa_date": "11-16 May, 2020",
+  },
 }
