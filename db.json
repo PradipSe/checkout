@@ -9,36 +9,5 @@
         "plan": "90 days tourist visa",
         "travaler": "2",
         "visa_date": "11-16 May, 2020",
-    },
-    "breakup": [
-        {
-            "name": "breakup1",
-            "type": "x1",
-            "price": "Rs xxx",
-        },
-        {
-            "name": "breakup2",
-            "type": "x2",
-            "price": "Rs xxx",
-        },
-        {
-            "name": "breakup3",
-            "type": "x3",
-            "price": "Rs xxx",
-        }
-    ],
-    "amount": [
-        {
-            "name": "Total visa fees Stam",
-            "price": "Rs xxx",
-        },
-        {
-            "name": "Total visa fees Stam",
-            "price": "Rs xxx",
-        },
-        {
-            "name": "Total visa fees Stam",
-            "price": "Rs xxx",
-        }
-    ],
+    }
 }
