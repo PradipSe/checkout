@@ -1,10 +1,31 @@
-
 {
-  "details": {
-    "page_header": "Checkout",
-    "invoice_no": "INV#12899a67",
-    "date_time": "6 Mar, 2021 10:39",
-    "gst_no": "22 AAAAA0000A 1 Z 5",
-    "total": "10000", 
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
