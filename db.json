@@ -13,11 +13,16 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
+  "breakup": [
     {
       "name": "breakup1",
-      "type": "x1",
-      "price": "Rs xxx",
+      "type": "some comment",
+      "price": 1
+    },
+    {
+      "name": "breakup2",
+      "type": "some comment",
+      "price": 1
     }
   ],
   "profile": {
