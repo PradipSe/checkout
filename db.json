@@ -25,6 +25,23 @@
       "postId": 1
     }
   ],
+  "breakup": [
+        {
+            "name": "breakup1",
+            "type": "x1",
+            "price": "Rs xxx",
+        },
+        {
+            "name": "breakup2",
+            "type": "x2",
+            "price": "Rs xxx",
+        },
+        {
+            "name": "breakup3",
+            "type": "x3",
+            "price": "Rs xxx",
+        }
+    ],
   "profile": {
     "header": "checkout",
     "total": "10000",
