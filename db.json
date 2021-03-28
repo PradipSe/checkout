@@ -26,6 +26,7 @@
     }
   ],
   "profile": {
-    "header": "checkout"
+    "header": "checkout",
+    "total": "10000"
   }
 }
